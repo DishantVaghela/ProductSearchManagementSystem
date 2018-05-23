@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+
+input[type=text], input[type=password], select, textarea {
+	width: 100%;
+}
+
+table {
+	text-align: center;
+	width: 100%;
+}
+
+.title {
+	border-bottom: 3px solid pink;
+}
+
+.header {
+	position: sticky;
+	top: 0;
+}

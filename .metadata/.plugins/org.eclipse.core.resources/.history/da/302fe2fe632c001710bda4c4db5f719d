@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+
+input[type=text] {
+	width: 100%;
+	color: rgb(174,87,65);
+	outline:0;
+}
+
+table {
+	width: 100%;
+}

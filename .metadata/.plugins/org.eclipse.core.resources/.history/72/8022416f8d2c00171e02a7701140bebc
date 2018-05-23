@@ -1,0 +1,75 @@
+package Service;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import Dao.UpdateManagerDao;
+
+/**
+ * Servlet implementation class UpdateManagerService
+ */
+@WebServlet("/UpdateManagerService")
+public class UpdateManagerService extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+	
+	// location to store file uploaded
+    private static final String UPLOAD_DIRECTORY = "general";
+ 
+    // upload settings
+    private static final int MEMORY_THRESHOLD   = 1024 * 1024 * 3;  // 3MB
+    private static final int MAX_FILE_SIZE      = 1024 * 1024 * 40; // 40MB
+    private static final int MAX_REQUEST_SIZE   = 1024 * 1024 * 50; // 50MB
+    
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public UpdateManagerService() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		response.getWriter().append("Served at: ").append(request.getContextPath());
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		//doGet(request, response);
+		response.setContentType("text/html");
+		PrintWriter out = response.getWriter();
+		
+		String password=request.getParameter("textAreaPassword");
+		String recoveryQuestion=request.getParameter("textAreaRecoveryQuestion");
+		String recoveryAnswer=request.getParameter("textAreaRecoveryAnswer");
+		
+		if(UpdateManagerDao.updateManager(password, recoveryQuestion, recoveryAnswer)){  
+			out.println("<script type=\"text/javascript\">");
+			out.println("alert('manager updated');");
+			out.println("location='updateManager.jsp';");
+			out.println("</script>");
+		}  
+	    else{  
+	    	out.println("<script type=\"text/javascript\">");
+	    	out.println("alert('failed to update manager');");
+	    	out.println("location='updateManager.jsp';");
+		    out.println("</script>");
+	    }
+		
+		out.close();
+	}
+
+}

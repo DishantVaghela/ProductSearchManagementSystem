@@ -1,0 +1,26 @@
+@CHARSET "ISO-8859-1";
+
+input[type=text], input[type=password], select, textarea {
+	width: 100%;
+}
+
+table {
+	text-align: center;
+	width: 100%;
+}
+
+.title {
+	border-bottom: 3px solid pink;
+}
+
+.header {
+	
+	background-color: white;
+	position: sticky;
+	top: 0;
+}
+
+.manager img{
+	height: 60px;
+    width: 60px;
+}

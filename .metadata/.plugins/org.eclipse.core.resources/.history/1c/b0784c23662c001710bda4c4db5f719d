@@ -1,0 +1,10 @@
+@CHARSET "ISO-8859-1";
+
+input[type=text], input[type=password] {
+	width: 100%;
+}
+
+table {
+	text-align: center;
+	width: 100%;
+}

@@ -1,0 +1,56 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<%@page import="java.sql.*" %>
+<%	
+	Class.forName("oracle.jdbc.driver.OracleDriver");  
+	Connection con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","system","system"); 
+%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Product Search Management System - recover password</title>
+<link rel="stylesheet" type="text/css" href="productSearchManagementSystem.css">	
+</head>
+<body>
+	<form action="RecoverPasswordService" method="post">
+		<%
+			try{  
+				String loginId=request.getParameter("textFieldId");
+				PreparedStatement ps=con.prepareStatement("select * from psms_manager where manager_id=?");  
+				ps.setString(1,loginId);  
+				ResultSet rs = ps.executeQuery(); 
+				if (rs.next()){
+		%>
+		<table>
+			<tr>
+				<td colspan="2"><img src="productSearchManagementSystemlLogo.png"></td>
+			</tr>
+			<tr>
+				<td colspan="2"><br></td>
+			</tr>
+			<tr>
+				<td colspan="2" bgcolor="pink">RECOVER PASSWORD</td>
+			</tr>
+			<tr>
+				<td class="title" valign="top">Manager Id: </td>
+				<td><textarea rows="2" cols="40" name="textAreaManagerId"><%=rs.getString(2)%></textarea></td>
+			</tr>
+			<tr>
+				<td  class="title" valign="top">Recovery Question: </td>
+				<td><%out.print(rs.getString(4));%></td>
+			</tr>
+			<tr>
+				<td  class="title" valign="top">Recovery Answer: </td>
+				<td><textarea rows="2" cols="40" name="textAreaRecoveryAnswer"></textarea></td>
+			</tr>
+			<% } } catch(Exception e){System.out.println(e);}%>
+			<tr>
+				<td colspan="2"  >
+					<input type="submit" value="go ahead">
+				</td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>

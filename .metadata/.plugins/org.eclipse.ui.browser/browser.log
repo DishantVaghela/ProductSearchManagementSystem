@@ -1,0 +1,141 @@
+
+Dec 02, 2016 05:03:59.39 NEW SESSION
+Dec 02, 2016 05:03:59.45 [1202/050359:ERROR:main_dll_loader_win.cc(196)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
+Dec 02, 2016 05:03:59.48 [1202/050359:ERROR:main_dll_loader_win.cc(196)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
+
+Dec 02, 2016 14:40:32.08 NEW SESSION
+Dec 02, 2016 14:40:32.08 [1202/144032:ERROR:main_dll_loader_win.cc(196)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
+Dec 02, 2016 14:53:00.47 [5812:9528:1202/145300:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 14:53:21.76 [5812:9528:1202/145321:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 14:54:17.48 [5812:9528:1202/145417:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 14:55:43.27 [5812:9528:1202/145543:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 14:57:58.43 [1202/145758:ERROR:main_dll_loader_win.cc(196)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
+Dec 02, 2016 15:04:40.20 [8648:4276:1202/150440:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 15:05:03.69 [8648:4276:1202/150503:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 15:05:54.56 [8648:4276:1202/150554:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 15:06:16.93 [1202/150616:ERROR:main_dll_loader_win.cc(196)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
+Dec 02, 2016 16:09:48.49 [10048:6328:1202/160948:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 16:10:13.76 [10048:6328:1202/161013:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 16:11:05.43 [10048:6328:1202/161105:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 16:12:35.04 [10048:6328:1202/161235:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 16:16:25.82 [10048:6328:1202/161625:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 16:24:01.37 [10048:6328:1202/162401:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 16:34:01.37 [10048:6328:1202/163401:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 16:44:01.58 [10048:6328:1202/164401:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 16:54:01.58 [10048:6328:1202/165401:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 17:04:01.59 [10048:6328:1202/170401:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 17:14:01.59 [10048:6328:1202/171401:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 17:24:01.65 [10048:6328:1202/172401:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 17:34:01.60 [10048:6328:1202/173401:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 17:44:01.66 [10048:6328:1202/174401:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 17:47:49.59 [1202/174749:ERROR:main_dll_loader_win.cc(196)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
+Dec 02, 2016 18:55:35.60 [10048:6328:1202/185535:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 18:56:11.61 [10048:6328:1202/185611:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 18:57:20.95 [10048:6532:1202/185720:ERROR:ssl_client_socket_impl.cc(1168)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 02, 2016 18:57:25.65 [10048:6532:1202/185725:ERROR:ssl_client_socket_impl.cc(1168)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 02, 2016 18:57:36.89 [10048:6532:1202/185736:ERROR:ssl_client_socket_impl.cc(1168)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 02, 2016 18:57:36.90 [10048:6328:1202/185736:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 20:08:59.77 [10048:6328:1202/200859:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 20:09:31.29 [10048:6328:1202/200931:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 20:10:32.81 [10048:6328:1202/201032:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 20:12:09.00 [10048:6328:1202/201208:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 20:15:09.23 [10048:6328:1202/201509:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 20:22:24.30 [10048:6328:1202/202224:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 20:32:28.79 [10048:6328:1202/203228:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 20:42:33.25 [10048:6328:1202/204233:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 20:52:37.74 [10048:6328:1202/205237:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 21:02:42.23 [10048:6328:1202/210242:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 21:12:46.83 [10048:6328:1202/211246:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 21:22:51.25 [10048:6328:1202/212251:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 21:32:55.82 [10048:6328:1202/213255:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 21:43:00.27 [10048:6328:1202/214300:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 21:47:28.64 [1202/214728:ERROR:main_dll_loader_win.cc(196)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
+Dec 02, 2016 23:04:15.86 [10048:6328:1202/230415:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 23:04:37.35 [10048:6328:1202/230437:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 23:05:29.59 [10048:6328:1202/230529:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 23:07:21.47 [10048:6328:1202/230721:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 23:10:46.29 [10048:6328:1202/231046:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 23:17:52.62 [10048:6328:1202/231752:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 23:27:52.88 [10048:6328:1202/232752:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 02, 2016 23:54:20.22 [10048:6328:1202/235420:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 24:04:20.44 [10048:6328:1203/000420:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 24:14:20.75 [10048:6328:1203/001420:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 24:24:21.05 [10048:6328:1203/002421:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 24:34:21.44 [10048:6328:1203/003421:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 24:44:21.76 [10048:6328:1203/004421:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 24:54:22.06 [10048:6328:1203/005422:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 01:04:22.42 [10048:6328:1203/010422:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 01:14:22.78 [10048:6328:1203/011422:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 01:24:23.51 [10048:6328:1203/012423:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 01:34:23.74 [10048:6328:1203/013423:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 01:44:24.06 [10048:6328:1203/014424:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 01:54:24.38 [10048:6328:1203/015424:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 02:04:26.22 [10048:6328:1203/020426:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 02:14:26.50 [10048:6328:1203/021426:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 02:24:26.94 [10048:6328:1203/022426:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 02:34:27.24 [10048:6328:1203/023427:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 02:44:27.58 [10048:6328:1203/024427:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 02:54:27.91 [10048:6328:1203/025427:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 03:04:28.28 [10048:6328:1203/030428:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 03:14:28.47 [10048:6328:1203/031428:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 03:24:28.77 [10048:6328:1203/032428:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 03:34:29.11 [10048:6328:1203/033429:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 03:44:29.48 [10048:6328:1203/034429:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 03:54:29.70 [10048:6328:1203/035429:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 04:04:30.10 [10048:6328:1203/040430:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 04:14:30.35 [10048:6328:1203/041430:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 04:24:30.65 [10048:6328:1203/042430:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 04:34:31.00 [10048:6328:1203/043430:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 04:44:31.26 [10048:6328:1203/044431:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 04:54:31.56 [10048:6328:1203/045431:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 05:04:31.86 [10048:6328:1203/050431:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 05:14:32.16 [10048:6328:1203/051432:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 05:21:31.06 [1203/052130:ERROR:main_dll_loader_win.cc(196)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
+
+Dec 03, 2016 08:38:46.50 NEW SESSION
+Dec 03, 2016 08:38:46.51 [3808:8064:1203/083846:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 08:39:07.85 [3808:8064:1203/083907:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 08:39:52.39 [3808:8064:1203/083952:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 08:41:42.96 [3808:8064:1203/084142:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 08:44:47.68 [3808:8064:1203/084447:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 08:50:20.36 [3808:8064:1203/085020:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 09:00:20.37 [3808:8064:1203/090020:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 09:10:20.37 [3808:8064:1203/091020:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 09:20:20.37 [3808:8064:1203/092020:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Dec 03, 2016 09:28:27.47 [1203/092827:ERROR:main_dll_loader_win.cc(196)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
+
+Apr 27, 2017 15:22:57.34 NEW SESSION
+Apr 27, 2017 15:22:57.34 [6092:9504:0427/152257.293:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+
+Apr 29, 2017 04:03:49.53 NEW SESSION
+Apr 29, 2017 04:03:49.54 [8416:8552:0429/040326.991:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 29, 2017 06:02:16.54 [3600:10052:0429/060216.545:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+
+Apr 29, 2017 07:48:20.64 NEW SESSION
+Apr 29, 2017 07:48:20.64 [1852:2696:0429/074820.602:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 29, 2017 08:01:33.43 [9020:8828:0429/080133.420:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 08:02:02.56 [9020:8828:0429/080202.567:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 08:02:46.80 [9020:8828:0429/080246.800:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 08:04:40.94 [9020:8828:0429/080440.941:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 08:08:15.64 [9020:8828:0429/080815.640:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 08:15:06.19 [9020:8828:0429/081506.170:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 08:25:06.17 [9020:8828:0429/082506.173:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 08:44:35.65 [9020:8828:0429/084435.129:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 08:54:35.20 [9020:8828:0429/085435.187:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 09:04:35.21 [9020:8828:0429/090435.209:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 09:14:35.21 [9020:8828:0429/091435.211:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 09:24:35.24 [9020:8828:0429/092435.218:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 09:26:31.66 [9020:8440:0429/092631.605:ERROR:plugin_data_remover_impl.cc(126)] Timed out
+Apr 29, 2017 09:34:35.22 [9020:8828:0429/093435.220:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 10:44:23.34 [5116:9600:0429/104423.181:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+
+Apr 29, 2017 12:48:45.25 NEW SESSION
+Apr 29, 2017 12:48:45.25 [9068:5764:0429/124845.135:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 29, 2017 12:53:46.52 [2500:9580:0429/125346.500:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 12:54:15.73 [2500:9580:0429/125415.735:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 12:55:00.32 [2500:9580:0429/125500.324:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 12:56:36.47 [2500:9580:0429/125636.470:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 12:59:45.09 [2500:9580:0429/125945.092:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 13:07:20.18 [2500:9580:0429/130720.181:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 13:17:20.18 [2500:9580:0429/131720.182:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 29, 2017 13:27:20.18 [2500:9580:0429/132720.185:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
